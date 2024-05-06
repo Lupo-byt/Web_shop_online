@@ -1,0 +1,74 @@
+{
+  "products" : [
+    {
+      "name": "Borsone",
+      "price": "30.00",
+      "picture": "img/Borsone.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Cappello",
+      "price": "18.00",
+      "picture": "img/Cappello.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Felpa",
+      "price": "45.00",
+      "picture": "img/Felpa.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Giaccone",
+      "price": "50.00",
+      "picture": "img/Giaccone.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "K-way",
+      "price": "37.00",
+      "picture": "img/K-way.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Kit base",
+      "price": "90.00",
+      "picture": "img/Kit base.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Pantaloncini",
+      "price": "25.00",
+      "picture": "img/Pantaloncini.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Pantaloni",
+      "price": "18.00",
+      "picture": "img/Pantaloni.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Polo",
+      "price": "25.00",
+      "picture": "img/Polo.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "T-shirt",
+      "price": "15.00",
+      "pictures": "img/T-shirt.jpg",
+      "quantity": "10"
+    },
+    {
+      "name": "Zaino",
+      "price": "35.00",
+      "pictures": "img/Zaino.jpg",
+      "quantity": "10"
+    }
+  ],
+
+  "cart" : [
+    
+  ]
+}
