@@ -41,12 +41,10 @@ function loadContent() {
 
 //Remove Item
 function removeItem() {
-  if (confirm("Are Your Sure to Remove")) {
     let title = this.parentElement.querySelector(".cart-clothes-title").innerHTML;
     itemList = itemList.filter((el) => el.title != title);
     this.parentElement.remove();
     loadContent();
-  }
 }
 
 //Change Quantity
